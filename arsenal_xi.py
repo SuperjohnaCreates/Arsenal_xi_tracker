@@ -9,3 +9,6 @@ for player in starting_eleven:
     print(player)
 
 print("Rice is starting in midfield as the coach demands.")
+print("Odegaard leads the team as captain.")
+print("Gabriel keeps it solid at the back.")
+
