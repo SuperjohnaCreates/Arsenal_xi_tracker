@@ -7,3 +7,5 @@ starting_eleven = [
 print("Today's Arsenal Starting XI:")
 for player in starting_eleven:
     print(player)
+
+print("Rice is starting in midfield as the coach demands.")
